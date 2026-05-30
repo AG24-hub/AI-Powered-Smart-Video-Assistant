@@ -31,6 +31,7 @@ tiktoken>=0.7.0                   # Token counting for text splitting
 streamlit>=1.35.0
 streamlit-extras>=0.4.0           # Additional Streamlit widgets / utilities
 watchdog>=4.0.0                   # File-change watcher (improves Streamlit hot-reload)
+torchvision>=0.17.0
 
 # ── PDF & TXT Export ──────────────────────────────────────────────────────────
 reportlab>=4.2.0                  # PDF generation
@@ -41,3 +42,4 @@ python-dotenv>=1.0.0              # Load API keys from .env
 numpy>=1.26.0
 tqdm>=4.66.0                      # Progress bars
 requests>=2.32.0
+
