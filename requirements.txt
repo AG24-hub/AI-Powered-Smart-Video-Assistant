@@ -4,7 +4,6 @@ python-3.12.10
 # ── Audio / Video acquisition ─────────────────────────────────────────────────
 yt-dlp>=2024.4.9                  # Download audio from YouTube URLs
 pydub>=0.25.1                     # Audio file manipulation / format conversion
-pyaudioop
 ffmpeg-python>=0.2.0              # FFmpeg bindings (FFmpeg binary must be installed separately)
 
 # ── Speech-to-Text (local Whisper) ────────────────────────────────────────────
